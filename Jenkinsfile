@@ -69,6 +69,6 @@ environment {
                echo '<--------------- Docker Publish Ended --------------->'  
             }
         }
-    } 
+    }  
 }
 }
